@@ -1,0 +1,15 @@
+{
+    "name": "singtuang/online_exam",
+    "authors": [
+        {
+            "name": "Sing Tuang"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "_classes/Libs/",
+            "Helpers\\": "_classes/Helpers/"
+        }
+    }
+}
